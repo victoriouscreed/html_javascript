@@ -19,17 +19,26 @@
         width: 100%;
         padding: 1px;
         font-size: 15px;
-        text-align: left;
+        text-align: center;
     }
 
     nav {
         background: rgb(64, 204, 42);
         width: 100%;
         height: auto;
-        padding: 1px;
+        padding: 1px 30px;
         color: rgb(126, 65, 255);
         font-size: 12px;
         text-align: left;
+    }
+
+    section {
+        background-color: rgb(255, 120, 0);
+        box-sizing: border-box;
+        width: 100%;
+        padding: 1px;
+        font-size: 12px;
+        text-align: center;
     }
 
     article {
@@ -41,26 +50,16 @@
         font-size: 13px;
     }
 
-    section {
-        background-color: rgb(255, 120, 0);
-        box-sizing: border-box;
-        width: 100%;
-        padding: 1px;
-        font-size: 12px;
-        text-align: left;
-    }
-
     aside {
         background-color: #0cfff7;
         padding: 10px;
-        height: 2000px;
+        height: 500px;
         width: 15%;
         float: left;
         text-align: center;
         position: fixed;
         font-size: 10px;
-        min-width: 90px;
-
+        min-width: 80px;
     }
 
     footer {
