@@ -59,7 +59,7 @@
         text-align: center;
         position: fixed;
         font-size: 10px;
-        min-width: 80px;
+        min-width: 83px;
     }
 
     footer {
@@ -123,6 +123,7 @@
         height: 1000px;
         width: 15%;
         max-width: fit-content;
+        min-width: 120px;
         float: left;
         text-align: center;
         position: fixed;
